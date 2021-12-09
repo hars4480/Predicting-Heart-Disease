@@ -22,5 +22,7 @@ Description
     * Quadratic Discriminant Analysis
     * Dummy Classifier
 
+* Also, trained with Tenserflow with GPU on Cola, with 80% validation accuracy.
 * Souce: Heart Disease Data Set from UCI ML algorithm: https://archive.ics.uci.edu/ml/datasets/heart+disease
+
 
